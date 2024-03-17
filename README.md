@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalyadav84&label=Profile%20views&color=0e75b6&style=flat" alt="vishalyadav84" /> </p>
 
-- 👨‍💻 All of my projects are available at [vishalyadav84.github.io/Vishal_yadav_Portfolio.io/](vishalyadav84.github.io/Vishal_yadav_Portfolio.io/)
-
 - 💬 Ask me about **C/C++ and Java**
 
 - 📫 How to reach me **vishal.2325mca1068@kiet.edu**
