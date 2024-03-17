@@ -3,7 +3,6 @@
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/7a7e450bb65ab617e6acd38db1b3b50fdd0da3a26d9f8fcda23713f0416f5b2a/68747470733a2f2f67696666696c65732e616c706861636f646572732e636f6d2f3230392f3230393636312e676966">
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalyadav84&label=Profile%20views&color=0e75b6&style=flat" alt="vishalyadav84" /> </p>
 
