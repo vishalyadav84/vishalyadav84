@@ -1,12 +1,19 @@
 <h1 align="center">Hi 👋, I'm Vishal Yadav</h1>
-<h3 align="center">A passionate Softwere Engineer from India</h3>
+<h3 align="center">Passionate, Dedicated, Trustworthiness and Respectfulness.</h3>
+
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/7a7e450bb65ab617e6acd38db1b3b50fdd0da3a26d9f8fcda23713f0416f5b2a/68747470733a2f2f67696666696c65732e616c706861636f646572732e636f6d2f3230392f3230393636312e676966">
+
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalyadav84&label=Profile%20views&color=0e75b6&style=flat" alt="vishalyadav84" /> </p>
 
+- 👨‍💻 All of my projects are available at [vishalyadav84.github.io/Vishal_yadav_Portfolio.io/](vishalyadav84.github.io/Vishal_yadav_Portfolio.io/)
+
+- 💬 Ask me about **C/C++ and Java**
+
 - 📫 How to reach me **vishal.2325mca1068@kiet.edu**
 
-- ⚡ Fun fact **I am funny😅**
+- ⚡ Fun fact **Fun fact I don't think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,3 +35,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishalyadav84&show_icons=true&locale=en" alt="vishalyadav84" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalyadav84&" alt="vishalyadav84" /></p>
+
+<img align="center" alt="coding" width="400" src="https://camo.githubusercontent.com/ec4ccaa3a43b7eeb7a0c91455501e565964d2f81fea050b81b60b97f9ad88952/68747470733a2f2f626c6f672e736369656e63656d757365756d2e6f72672e756b2f77702d636f6e74656e742f75706c6f6164732f323031392f30372f67697068792d322e676966">
+
