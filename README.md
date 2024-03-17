@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **vishal.2325mca1068@kiet.edu**
 
-- ⚡ Fun fact **Fun fact I don't think I am funny**
+- ⚡ **Fun fact I don't think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
